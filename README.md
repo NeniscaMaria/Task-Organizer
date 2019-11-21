@@ -1,4 +1,5 @@
 # Task-Organizer
+--created during the second semester
 
 This program helps you schedule a number of activities and is console-based. It works based on the Trajan's Algorithm and DFS topological sorting.
 
